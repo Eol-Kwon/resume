@@ -1,6 +1,6 @@
 # 소개
 
-<img alt="프로필사진" src="https://avatars0.githubusercontent.com/u/60545559?s=400&u=8c25722d559c86a3e9fd88dc99f09cad1cefdae4&v=4" width="200">
+<img alt="프로필사진" src="https://user-images.githubusercontent.com/25922181/86526018-95412580-bec9-11ea-81e2-698d52936534.jpeg" width="200">
 
 * 권얼
 * Email : waffen85@gmail.com
